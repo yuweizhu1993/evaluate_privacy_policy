@@ -10,4 +10,4 @@ In this project, we would like to decompose companies' information privacy polic
 
 We mainly employed three machine learning methods: KMeans Clustering, LDA Topic Modeling, Sentiment Analysis. Below is the analysis pipeline.
 
-![pipeline](https://github.com/yuweizhu1993/evaluate_privacy_policy/blob/master/pipeline.png)
+![pipeline, width = 300](https://github.com/yuweizhu1993/evaluate_privacy_policy/blob/master/pipeline.png)
