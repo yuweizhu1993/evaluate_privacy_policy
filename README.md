@@ -2,6 +2,8 @@
 
 This is the final project for CMU course 94775 Unstructured Data Analysis (Spring 2020).
 
+Collaborator: [Tingting Gu](https://github.com/tingtingbun)
+
 In this project, we would like to decompose companies' information privacy policy and understand them through the lens of specific categories. We would connect the dots between what people are concerned about and what companies collect, hoping to create more transparency in company privacy policies. We are interested in the following questions:
 
 1. Do people express special concerns towards certain data privacy practices on social media?
